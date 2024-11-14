@@ -1,0 +1,14 @@
+[package]
+name = "oneoff"
+version = "0.1.0"
+edition = "2021"
+authors = ["oneoff team"]
+description = "oneoff is a library for one-off types"
+repository = "https://github.com/oneoff-rs/oneoff"
+license = "MIT"
+readme = "README.md"
+documentation = "https://docs.rs/oneoff"
+keywords = ["oneoff", "left", "right", "option", "type"]
+categories = ["data-structures", "rust-patterns"]
+
+[dependencies]
